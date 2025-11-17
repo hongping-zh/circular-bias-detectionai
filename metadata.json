@@ -1,0 +1,5 @@
+{
+  "name": "Circular Bias Detection",
+  "description": "An AI-powered tool to detect circular reasoning and confirmation bias in text by comparing a generated text against a reference text. It provides a circularity score, a detailed explanation, and highlights the biased sections.",
+  "requestFramePermissions": []
+}
